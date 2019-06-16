@@ -5,6 +5,11 @@ body {
 }
 
 h1 {
+    font-family: 'Pangolin';
+    font-size:1.5em;
+    letter-spacing:.5em;
+    text-decoration:underline;
+    text-transform:capitalize;
 
 }
 
